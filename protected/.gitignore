@@ -1,0 +1,5 @@
+/config/console.php
+/config/db.php
+/config/web.php
+/config/params.php
+composer.lock
